@@ -54,7 +54,7 @@ python run.py
 - Set url = 0 for webcam.
 
 ## How does the Code work?
-Kindly refer to the `Documentation.pdf` file that has been provided in along with this repository.
+Kindly refer to the `Documentation.pdf` file that has been provided along with this repository.
 
 ## References
 ***Main:***
