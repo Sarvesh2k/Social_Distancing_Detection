@@ -3,7 +3,7 @@ Social distancing in Real-Time using live video stream/IP camera in OpenCV libra
 
 Output       |  Output
 :-------------------------:|:-------------------------:
-![Output](mylib/videos/output1.png?raw=true "Output")  |  ![Output](mylib/videos/output2.png?raw=true "Output")
+![Output](mylib/videos/output1.png?raw=true "Output")  |  ![Output](mylib/videos/output2.PNG?raw=true "Output")
 
 ## Applications
 - Estimating the number of people in the stores, buildings, shopping malls, etc. in real-time.
