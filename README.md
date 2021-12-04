@@ -1,7 +1,7 @@
-# Social-Distancing-in-Real-Time
+# Social Distancing Detection Software
 Social distancing in Real-Time using live video stream/IP camera in OpenCV library.
 
-Output Vid 1       |  Output Vid 2
+Output       |  Output
 :-------------------------:|:-------------------------:
 ![Output](mylib/videos/output1.png?raw=true "Output")  |  ![Output](mylib/videos/output2.png?raw=true "Output")
 
