@@ -65,6 +65,6 @@ Kindly refer to the `Documentation.pdf` file that has been provided along with t
 ## Contributors
 
 - Information gathered from [this article](https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/)
-- Codebase forked from [Sai Subhakar T](http://saimj7.github.io). Thank you for your information on this topic!
+- Code Inspiration from [Sai Subhakar T](http://saimj7.github.io). Thank you for your information on this topic!
 - Manish Shankar
 - Adithya Sineesh
